@@ -1,0 +1,15 @@
+name: microsim
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - jupyterlab
+  - pandas
+  - numpy
+  - ca-certificates
+  - certifi
+  - openssl
+  - plotly
+  - openpyxl
+  - fastparquet
+  - protobuf
